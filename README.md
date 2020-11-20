@@ -7,4 +7,4 @@ Este projeto simula o aplicativo real, onde é possível você se cadastrar, adi
 
 1. O aplicativo possui tela de login
 
-![](src/imagens/cadastrarUsuario.png)
+![](app/imagens/wtsLogin.png)
