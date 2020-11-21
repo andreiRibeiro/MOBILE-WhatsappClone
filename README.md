@@ -7,7 +7,7 @@ Este projeto simula o aplicativo real, onde é possível você se cadastrar, env
 O aplicativo esta integrado com o Firebase, e utiliza os módulos Authentication, Realtime Database e Storage.
 
 
-1. Tela de login.
+1) Tela de login.
 
 ![](app/imagens/wtsLogin.png)
 
