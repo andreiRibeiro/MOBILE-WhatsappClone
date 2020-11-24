@@ -6,6 +6,8 @@ Este projeto simula o aplicativo real, onde é possível você se cadastrar, env
 
 O aplicativo esta integrado com o Firebase, e utiliza os módulos Authentication, Realtime Database e Storage.
 
+Compatível com dispositivos Android Oreo (8.0) em diante.
+
 
 1. Tela de login.
 
