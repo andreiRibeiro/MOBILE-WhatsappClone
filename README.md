@@ -1,6 +1,6 @@
 # Clone-whatsapp
 
-Aplicativo clone para fins de conhecimento - [opa]cloneWhatsapp.apk)
+Aplicativo clone para fins de conhecimento - [opa](cloneWhatsapp.apk)
 
 Este projeto simula o aplicativo real, onde é possível você se cadastrar, enviar mensagens aos contatos, criar grupos de conversa, editar seu profile e enviar imagens de sua câmera ou galeria.
 
