@@ -9,30 +9,30 @@ O aplicativo esta integrado com o Firebase, e utiliza os módulos Authentication
 Compatível com dispositivos Android Oreo (8.0) em diante.
 
 
-## 1. Tela de login.
+#### 1) Tela de login.
 
 ![](app/imagens/wtsLogin.png)
 
-## 2. Tela de cadastro.
+#### 2) Tela de cadastro.
 
 ![](app/imagens/wtsCadastro.png)
 
-## 3. Tela de configurações.
+#### 3) Tela de configurações.
 
 ![](app/imagens/wtsConfiguracoes.png)
 
-## 4. Tela de contatos/conversas
+#### 4) Tela de contatos/conversas
 
 ![](app/imagens/wtsContatos.png)
 
-## 5. Tela de cadastro de grupos
+#### 5) Tela de cadastro de grupos
 
 ![](app/imagens/wtsGrupos.png)
 
-## 7. Organização dados no Firebase
+#### 7) Organização dados no Firebase
 
 ![](app/imagens/wtsFirebase1.png)
 
-## 8. Autenticação via Firebase
+#### 8) Autenticação via Firebase
 
 ![](app/imagens/wtsFirebase2.png)
